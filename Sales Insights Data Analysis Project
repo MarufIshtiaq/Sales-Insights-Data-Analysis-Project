@@ -1,0 +1,44 @@
+Sales Insight of Atlic Hardware Company
+
+
+Situation
+
+Atlic Hardware Company, a retail business, was facing difficulty in understanding sales performance trends and customer purchasing behaviors.
+The management sought a detailed analysis of their sales data to make informed decisions about inventory optimization, marketing strategies
+and revenue growth.
+
+Task
+
+The primary objectives of the project were to:
+•	Analyze historical sales data to identify trends and patterns.
+•	Provide actionable insights on top-performing products, sales by region, and seasonal trends.
+•	Visualize the findings in an interactive dashboard for decision-makers.
+
+Action
+
+Data Extraction and Transformation using SQL:
+•	Connected to the company's sales database to extract relevant data, including sales transactions, product details, and regional performance.
+•	Wrote complex SQL queries to clean, preprocess, and aggregate data, ensuring accuracy and consistency.
+•	Performed calculations like total sales, average sales, and growth percentages at various levels (product, category, region).
+
+Data Visualization and Dashboard Creation using Power BI:
+•	Designed a dynamic Power BI dashboard to present insights interactively.
+•	Top-performing products and categories.
+•	Regional sales distribution.
+•	Monthly and seasonal sales trends.
+•	Added slicers and filters for stakeholders to explore data by region, time period, and product category.
+
+Insights Presentation:
+•	Documented key insights from the analysis in a report and presented them alongside the interactive Power BI dashboard.
+
+Result
+•	Identified the top 5 products contributing to highest revenue generate, enabling the company to focus on optimizing inventory for these items.
+•	Demonstrated that repeat customers accounted for highest revenue generating, leading to the recommendation of launching a loyalty program.
+•	The Power BI dashboard allowed stakeholders to make faster, data-driven decisions, reducing reporting time by 30%.
+•	Based on the findings, the company implemented changes that increased nest year sales by 6% and improved overall operational efficiency.
+
+Data Source: CodeBasic
+
+Contact: Ishtiaq Ahmed Maruf
+E-mail: maruf.ishtiaq78654@gmail.com	
+LinkedIn: www.linkedin.com/in/ishtiaq-ahmed-maruf-6663a8195
